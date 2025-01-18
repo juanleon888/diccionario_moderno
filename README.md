@@ -1,1 +1,1 @@
-# diccionario_moderno
+# Resolución de problemas de codigo
