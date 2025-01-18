@@ -1,1 +1,1 @@
-# Resolución de problemas de codigo
+# Resolución_de_problemas_de_codigo
