@@ -39,5 +39,5 @@ async def on_message(message):
     else:
         await message.channel.send("No puedo procesar este comando, ¡lo siento!")
 
-#token
+
 client.run("")
